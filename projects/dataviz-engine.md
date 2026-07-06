@@ -1,8 +1,11 @@
 # DataViz Engine — Open Source Charting Library
 
 **Repository:** [View Source Code](https://github.com/brian-codington/dataviz-engine)
+
 **Live Demo:** [View Storybook](https://storybook.dataviz-engine.dev)
+
 **Status:** Production Ready | Actively Maintained
+
 **npm:** `npm install dataviz-engine`
 
 **Tech Stack:** TypeScript, D3.js, React, Rollup, Storybook
