@@ -1,7 +1,9 @@
 # OpenBlog — Headless CMS & Blogging Platform
 
 **Repository:** [View Source Code](https://github.com/brian-codington/openblog)
+
 **Live Demo:** [Try It Out](https://demo.openblog.dev)
+
 **Status:** Production Ready
 
 **Tech Stack:** Next.js, FastAPI, PostgreSQL, S3, TipTap, Docker
