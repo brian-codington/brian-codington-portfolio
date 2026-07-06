@@ -1,7 +1,9 @@
 # TaskFlow — Real-Time Project Management Platform
 
 **Repository:** [View Source Code](https://github.com/brian-codington/taskflow)
+
 **Live Demo:** [Try It Out](https://demo.taskflow.dev)
+
 **Status:** Production Ready | In Active Use
 
 **Tech Stack:** React, Node.js, PostgreSQL, Redis, Socket.io, Docker
