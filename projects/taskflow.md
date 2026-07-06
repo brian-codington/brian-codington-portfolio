@@ -2,7 +2,7 @@
 
 **Repository:** [View Source Code](https://github.com/brian-codington/taskflow)
 
-**Live Demo:** [Try It Out](https://demo.taskflow.dev)
+**Live Demo:** [Try It Out](https://brian-codington.github.io/taskflow/)
 
 **Status:** Production Ready | In Active Use
 
