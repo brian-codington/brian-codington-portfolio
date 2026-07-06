@@ -1,7 +1,9 @@
 # DevCLI — Developer Automation Toolchain
 
 **Repository:** [View Source Code](https://github.com/brian-codington/devcli)
+
 **Status:** Production Ready | Open Source
+
 **PyPI:** `pip install devcli`
 
 **Tech Stack:** Python, Click, Docker, Jinja2, Rich
