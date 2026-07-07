@@ -2,7 +2,7 @@
 
 **Repository:** [View Source Code](https://github.com/brian-codington/openblog)
 
-**Live Demo:** [Try It Out](https://demo.openblog.dev)
+**Live Demo:** [Try It Out](https://brian-codington.github.io/openblog/)
 
 **Status:** Production Ready
 
