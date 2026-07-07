@@ -2,7 +2,7 @@
 
 **Repository:** [View Source Code](https://github.com/brian-codington/dataviz-engine)
 
-**Live Demo:** [View Storybook](https://storybook.dataviz-engine.dev)
+**Live Demo:** [View Storybook](https://brian-codington.github.io/dataviz-engine/)
 
 **Status:** Production Ready | Actively Maintained
 
